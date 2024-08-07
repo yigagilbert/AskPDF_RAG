@@ -55,18 +55,4 @@ To use the PDF Intelligence System:
 
 4. Open your browser and navigate to `http://localhost:8000` to access the user interface.
 
-## Contributing
-
-We welcome contributions to enhance the PDF Intelligence System. If you're interested in contributing, please follow our [Contribution Guidelines](CONTRIBUTING.md).
-
-## License
-
-This project is licensed under the [Apache License](LICENSE).
-
-## Acknowledgments
-
-We would like to express our gratitude to the Hugging Face community for the all-MiniLM-L6-v2 Embeddings model, and OpenAI for providing the GPT-3.5 Turbo model through their API.
-
----
-
-Feel free to explore and enhance the capabilities of the PDF Intelligence System. Happy querying!
+------------
